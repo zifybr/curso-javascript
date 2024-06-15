@@ -8,7 +8,8 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 
 ## Conteúdo do Curso
 
-- **Aula 1**: Introdução às Variáveis em JavaScript
+- **Aula 01**: Introdução ao JavaScript
+- **Aula 02**: Introdução às Variáveis no JavaScript
 
 ## Como Usar Este Repositório
 
