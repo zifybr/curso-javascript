@@ -12,6 +12,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 02**: Introdução às Variáveis no JavaScript
 - **Aula 03**: Regras para Nomeação de Variáveis e Propriedades em JavaScript
 - **Aula 04**: Tipos de Dados Primitivos em JavaScript
+- **Aula 05**: Tipos de Dados Completos em JavaScript: Object e Array
 
 ## Como Usar Este Repositório
 
