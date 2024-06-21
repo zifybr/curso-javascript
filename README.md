@@ -15,6 +15,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 05**: Tipos de Dados Completos em JavaScript: Object e Array
 - **Aula 06**: Operadores em JavaScript: Aritmético e de Atribuição
 - **Aula 07**: Operadores em JavaScript: Comparação e Lógicos
+- **Aula 08**: Condições em JavaScript: if, else e else if
 
 ## Como Usar Este Repositório
 
