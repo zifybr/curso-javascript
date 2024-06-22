@@ -16,6 +16,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 06**: Operadores em JavaScript: Aritmético e de Atribuição
 - **Aula 07**: Operadores em JavaScript: Comparação e Lógicos
 - **Aula 08**: Condições em JavaScript: if, else e else if
+- **Aula 09**: Condições em JavaScript: switch
 
 ## Como Usar Este Repositório
 
