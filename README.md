@@ -18,6 +18,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 08**: Condições em JavaScript: if, else e else if
 - **Aula 09**: Condições em JavaScript: switch
 - **Aula 10**: Operadores Especiais em JavaScript: Coalescência Nula e Ternário
+- **Aula 11**: Estruturas de Repetição em JavaScript: for
 
 ## Como Usar Este Repositório
 
