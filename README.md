@@ -21,6 +21,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 11**: Estruturas de Repetição em JavaScript: for
 - **Aula 12**: Estruturas de Repetição em JavaScript: while
 - **Aula 13**: Estruturas de Repetição em JavaScript: do while
+- **Aula 14**: Estruturas de Repetição em JavaScript: for of e for in
 
 ## Como Usar Este Repositório
 
