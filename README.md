@@ -20,6 +20,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 10**: Operadores Especiais em JavaScript: Coalescência Nula e Ternário
 - **Aula 11**: Estruturas de Repetição em JavaScript: for
 - **Aula 12**: Estruturas de Repetição em JavaScript: while
+- **Aula 13**: Estruturas de Repetição em JavaScript: do while
 
 ## Como Usar Este Repositório
 
