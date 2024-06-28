@@ -42,8 +42,9 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 4. **Execute os exemplos**:
     - Você pode executar os exemplos diretamente no seu navegador ou usar Node.js para executá-los no terminal.
     - Para executar com Node.js, certifique-se de que o Node.js está instalado e use o comando:
+
     ```bash
-    node aulas/aula1.js
+    node aulas/aula-02.js
     ```
 
 ## Requisitos
