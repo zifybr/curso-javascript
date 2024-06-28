@@ -23,6 +23,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 13**: Estruturas de Repetição em JavaScript: do while
 - **Aula 14**: Estruturas de Repetição em JavaScript: for of e for in
 - **Aula 15**: Funções em JavaScript
+- **Aula 16**: Escopo de Bloco em JavaScript
 
 ## Como Usar Este Repositório
 
@@ -42,6 +43,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 4. **Execute os exemplos**:
     - Você pode executar os exemplos diretamente no seu navegador ou usar Node.js para executá-los no terminal.
     - Para executar com Node.js, certifique-se de que o Node.js está instalado e use o comando:
+   
 
     ```bash
     node aulas/aula-02.js
