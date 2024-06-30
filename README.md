@@ -24,6 +24,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 14**: Estruturas de Repetição em JavaScript: for of e for in
 - **Aula 15**: Funções em JavaScript
 - **Aula 16**: Escopo de Bloco em JavaScript
+- **Aula 17**: Closures em JavaScript
 
 ## Como Usar Este Repositório
 
