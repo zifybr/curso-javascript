@@ -25,6 +25,7 @@ Este curso é destinado a iniciantes que desejam aprender JavaScript do zero. Va
 - **Aula 15**: Funções em JavaScript
 - **Aula 16**: Escopo de Bloco em JavaScript
 - **Aula 17**: Closures em JavaScript
+- **Aula 18**: Métodos de String
 
 ## Como Usar Este Repositório
 
